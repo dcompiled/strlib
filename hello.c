@@ -1,5 +1,5 @@
-void lcase() {
-	return;
+const char* lcase(const char* str) {
+	return str;
 }
 
 void hello() {
